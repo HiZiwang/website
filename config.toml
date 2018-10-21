@@ -1,8 +1,9 @@
 baseurl = "/"
 languageCode = "en"
-title = "Hugo Kiss theme"
+title = "Ziwang Zhu"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/ribice\">Ziwang Zhu</a> 2018"
+#copyright = "&copy; <a href=\"https://github.com/ribice\">Ziwang Zhu</a> 2018"
+copyright = "&copy; 2018 Ziwang Zhu"
 disqusShortname = "shortname"
 googleAnalytics = ""
 # Number of posts per page
@@ -22,7 +23,7 @@ customCSS = ["css/custom.css"]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = true # Adds OpenGraph and Twitter cards
 homeTitle = "" # Title for home page
-poweredby = false # Adds powered by hugo and kiss below Copyright
+poweredby = true # Adds powered by hugo and kiss below Copyright
 related = true # Includes related articles at the bottom of the article
 
 
@@ -36,13 +37,13 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 [params.social]
 
-twitter = "ribicemir"
-github = "ribice"
-email = "ribice@gmail.com"
+#twitter = "ZiwangZhu"
+#github = "HiZiwang"
+email = "applicant.ziwangzhu@gmail.com"
 linkedin = "ziwangzhu"
-facebook = "ribice"
-instagram = ""
-codepen = ""
+#facebook = "ribice"
+#instagram = ""
+#codepen = ""
 rss = "index.xml" # Add this to show RSS button in social.
 
 [params.matomoAnalytics]

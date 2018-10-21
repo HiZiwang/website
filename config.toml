@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 includeContent = true # Includes whole content in rss
 authorName = "Ziwang Zhu" # Author full name
-authorEmail = "ribice@gmail.com" # Author email
+authorEmail = "applicant.ziwangzhu@gmail.com" # Author email
 
 [params.assets]
 customCSS = ["css/custom.css"]
@@ -39,7 +39,7 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 twitter = "ribicemir"
 github = "ribice"
 email = "ribice@gmail.com"
-linkedin = "ribice"
+linkedin = "ziwangzhu"
 facebook = "ribice"
 instagram = ""
 codepen = ""

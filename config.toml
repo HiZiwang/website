@@ -4,7 +4,7 @@ title = "Ziwang Zhu"
 theme = "kiss"
 #copyright = "&copy; <a href=\"https://github.com/ribice\">Ziwang Zhu</a> 2018"
 copyright = "&copy; 2018 Ziwang Zhu"
-disqusShortname = "shortname"
+#disqusShortname = "shortname"
 googleAnalytics = ""
 # Number of posts per page
 Paginate = 5
